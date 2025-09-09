@@ -1,0 +1,4 @@
+Array
+(
+    [qr_code] => rR0ubCE18p
+)
